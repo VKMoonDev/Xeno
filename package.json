@@ -1,0 +1,16 @@
+{
+  "name": "xeno",
+  "version": "1.0.0",
+  "main": "./build/core.js",
+  "author": "Nex",
+  "repository": {
+    "url": "https://github.com/VKMoonDev/Xeno"
+  },
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "fs": "^0.0.1-security",
+    "winston": "^3.8.2"
+  }
+}
